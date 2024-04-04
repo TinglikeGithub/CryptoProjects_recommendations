@@ -10,9 +10,9 @@ data = []
 
 # Extract link and project name
 i = 1
-while True:
+while i<50:
     try:
-        website = "https://cryptorank.io/upcoming-ico?page={0}".format(i)
+        website = "https://cryptorank.io/funding-rounds?page={0}".format(i)
         
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         driver.maximize_window()
@@ -70,4 +70,5 @@ for website in df['Overview']:
 df['Service'] = services
 # df['Revenue'] = revenue
 
-# Saving the df
+# Saving the d
+df.to_csv("test.csv")

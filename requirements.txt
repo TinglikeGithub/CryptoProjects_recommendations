@@ -1,7 +1,7 @@
 Flask
-gensim==4.2.2
-numpy==1.22.2
-pandas==1.4.3
+gensim
+numpy
+pandas
 scikit-learn==1.8.0
-selenium==4.1.0
-webdriver-manager==3.5.0
+selenium
+webdriver-manager

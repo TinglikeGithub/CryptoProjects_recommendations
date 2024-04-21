@@ -2,6 +2,6 @@ Flask
 gensim
 numpy
 pandas
-scikit-learn==1.8.1
+scikit-learn==1.4.2
 selenium
 webdriver-manager

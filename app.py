@@ -41,7 +41,8 @@ def index():
         # Perform some processing on the input text (e.g., sentiment analysis)
         # Replace this with your actual processing code
         top_indices = match(top_n=top_n, column_weights=column_weights)
-        result = data.iloc[top_indices].values.tolist()
+        # result = data.iloc[top_indices].values.tolist()
+        result = data.iloc[top_indices].to_html(classes='data', header="true")
     return render_template('index.html', result=result)
 
 if __name__ == '__main__':

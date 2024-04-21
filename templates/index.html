@@ -12,11 +12,12 @@
     </form>
     {% if result %}
     <h2>Result:</h2>
-    <ul>
+    {{ result|safe }}
+    <!-- <ul>
         {% for item in result %}
         <li>{{ item }}</li>
         {% endfor %}
-    </ul>
+    </ul> -->
     {% endif %}
 </body>
 </html>

@@ -1,4 +1,4 @@
-Flask==2.1.4
+Flask
 gensim==4.2.2
 numpy==1.22.2
 pandas==1.4.3

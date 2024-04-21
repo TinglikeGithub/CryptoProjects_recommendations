@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Form Example</title>
+</head>
+<body>
+    <h1>Crypto Recommendation</h1>
+    <form method="post">
+        <label for="description">Enter some description about the startup</label>
+        <input type="description" id="description" name="description">
+        <br><br>
+        <label for="service">Select a Service:</label>
+        <select id="service" name="service">
+            <option value="blockchain_infrastructure">Blockchain Infrastructure</option>
+            <option value="blockchain_service">Blockchain Service</option>
+            <option value="cefi">CeFi</option>
+            <option value="chain">Chain</option>
+            <option value="defi">DeFi</option>
+            <option value="gamefi">Game Fi</option>
+            <option value="social">Social</option>
+            <option value="stablecoin">Stable Coin</option>
+        </select>
+        <br><br>
+        <label for="funding_round">Select funding Round:</label>
+        <select id="funding_round" name="funding_round">
+            <option value="angel">Angel</option>
+            <option value="pre_seed">Pre Seed</option>
+            <option value="seed">Seed</option>
+            <option value="pre_series_a">Pre-Series A</option>
+            <option value="series_a">Series A</option>
+            <option value="strategic">Strategic</option>
+            <option value="undisclosed">Undisclosed</option>
+        </select>
+        <br><br>
+        <label for="no_of_recommendation">How many recommendations do you want?</label>
+        <input type="number" id="no_of_recommendation" name="no_of_recommendation" min="0">
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+    {% if result %}
+    <h2>Result:</h2>
+    {{ result|safe }}
+    <!-- <ul>
+        {% for item in result %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul> -->
+    {% endif %}
+</body>
+</html>

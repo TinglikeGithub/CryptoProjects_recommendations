@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Form Example</title>
+</head>
+<body>
+    <h1>Flask Form Example</h1>
+    <form method="post">
+        <label for="text">How many start-ups should we recommend to you?</label>
+        <input type="text" id="text" name="text">
+        <button type="submit">Submit</button>
+    </form>
+    {% if result %}
+    <h2>Result:</h2>
+    <ul>
+        {% for item in result %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>

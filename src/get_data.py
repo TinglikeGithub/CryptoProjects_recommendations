@@ -71,4 +71,4 @@ df['Service'] = services
 # df['Revenue'] = revenue
 
 # Saving the d
-df.to_csv("test.csv")
+df.to_csv("static/Data/test.csv")

@@ -6,7 +6,7 @@ import os
 
 from src.recommendation_system import match
 
-data = pd.read_csv("Data/data.csv")
+data = pd.read_csv("static/Data/data.csv")
 
 column_weights = {
     'Total Raised': 0.8,

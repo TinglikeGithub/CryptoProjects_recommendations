@@ -2,7 +2,7 @@ import pandas as pd
 from gensim.models import Word2Vec
 import numpy as np
 
-all_data = pd.read_csv("Data/processed_data.csv")
+all_data = pd.read_csv("static/Data/processed_data.csv")
 test_data = all_data[-3:]
 processed_data = all_data[:-3]
 

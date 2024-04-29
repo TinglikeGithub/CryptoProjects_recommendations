@@ -2,7 +2,7 @@ Flask
 gensim==4.3.2
 numpy
 pandas
-scikit-learn==1.4.0
+scikit-learn
 selenium==4.18.1
 webdriver-manager
 werkzeug==2.2.3

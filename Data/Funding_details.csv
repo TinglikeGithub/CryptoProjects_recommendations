@@ -2,7 +2,7 @@ Name,Funding Details
 Raiinmaker,['Seed\n3 Apr 2024\nRaised\n$ 7.50M\nInvestors:\nJump Capital\nLead\nCypher Capital\nLead\nMEXC\nGate.io\n+11']
 Satoshisync,['Undisclosed\n3 Apr 2024\nRaised\nN/A\nInvestors:\nZBS CAPITAL\nMaven Capital\nMH Ventures\nChainlink\n+12']
 Legitimate,['Seed\n3 Apr 2024\nRaised\n$ 4.30M\nInvestors:\nLemniscap\nLead\nSfermion\nDraper Associates\nVerbal\n+1']
-Mangata,"['Undisclosed\n3 Apr 2024\nValuation\n$ 80M\nRaised\n$ 5.00M\nInvestors:\nPolychain Capital\nCMS Holdings\nMaster Ventures\nToken Metrics\n+1', 'Strategic\n28 Apr 2022\nValuation\n$ 60M\nRaised\n$ 4.20M\nInvestors:\nPolychain Capital\nLead\nTRGC\nLead\nAltonomy\nLead\nSignum Capital\n+5', 'Seed\n16 Jun 2021\nRaised\n$ 1.40M\nInvestors:\nPolychain Capital\nLead\nCMS Holdings\nIOSG\nTRGC\n+2']"
+Mangata,"['Undisclosed\n3 Apr 2024\nValuation\n$ 80M\nRaised\n$ 5.00M\nInvestors:\nPolychain Capital\nCMS Holdings\nMaster Ventures\nToken Metrics\n+2', 'Strategic\n28 Apr 2022\nValuation\n$ 60M\nRaised\n$ 4.20M\nInvestors:\nPolychain Capital\nLead\nTRGC\nLead\nAltonomy\nLead\nSignum Capital\n+5', 'Seed\n16 Jun 2021\nRaised\n$ 1.40M\nInvestors:\nPolychain Capital\nLead\nCMS Holdings\nIOSG Ventures\nTRGC\n+2']"
 Bonus-Block,['Undisclosed\n2 Apr 2024\nRaised\n$ 2.30M\nInvestors:\nZBS CAPITAL\nRarestone Capital\nFaculty Group\nLaser Digital\n+15']
 Iotex,"['Undisclosed\n2 Apr 2024\nRaised\n$ 50.00M\nInvestors:\nAmber Group\nBorderless Capital\nSNZ Holding\nWaterdrip Capital\n+4', 'Grant\n6 Sep 2023\nRaised\nN/A\nInvestors:\nEthereum Foundation']"
 Autolayer,['Seed\n2 Apr 2024\nRaised\n$ 2.50M\nInvestors:\nMorningstar Ventures\nKuCoin Labs\nSpark Digital Capital\nBlackEdge Capital\n+3']
@@ -12,7 +12,7 @@ Rumby-Stars,"['Undisclosed\n2 Apr 2024\nRaised\n$ 10.00M\nInvestors:\nThe Sparta
 Soai,['Angel\n2 Apr 2024\nRaised\n$ 5.00M\nInvestors:\nXForce Capital\nArcher Capital']
 Deeplink,['Undisclosed\n2 Apr 2024\nRaised\n$ 8.00M\nInvestors:\nGobi Partners\nBigger Than Race\nDeepBrainChain\nfirehustle']
 Moongate,['Seed\n2 Apr 2024\nRaised\n$ 2.70M\nInvestors:\nCMCC Global\nLead\nTitan Capital\nLead\nGBV Capital\nToken Bay Capital\n+4']
-Metados,['Undisclosed\n2 Apr 2024\nRaised\n$ 2.45M\nInvestors:\nAvalon Wealth Club\nKangaroo Capital\nBrainbox\nAZA Ventures']
+Metados,['Undisclosed\n2 Apr 2024\nRaised\n$ 2.45M\nInvestors:\nAvalon Wealth Club\nKangaroo Capital\nAZA Ventures\nBrainbox']
 Xraders,['Seed\n2 Apr 2024\nRaised\n$ 2.10M\nInvestors:\nGBV Capital\nFBG Capital\nIcetea Labs\nBasics Capital\n+15']
 Bsx,"['Undisclosed\n1 Apr 2024\nRaised\nN/A\nInvestors:\nCMS Holdings\nKyros Ventures\nSaison Capital\nBase Ecosystem Fund\n+2', 'Undisclosed\n7 Sep 2023\nRaised\nN/A\nInvestors:\nBase Ecosystem Fund']"
 Lockchain-Ai,['Seed\n1 Apr 2024\nRaised\n$ 4.60M\nInvestors:\nLerer Hippeau\nLead\nArrington XRP Capital\nWhite Star Capital\nArca\n+4']
@@ -20,32 +20,283 @@ Burnt-Finance,"['Series A\n1 Apr 2024\nValuation\n$ 500M\nRaised\n$ 25.00M\nInve
 Merkle-Trade,['Seed\n1 Apr 2024\nRaised\n$ 2.10M\nInvestors:\nHashed Fund\nLead\nArrington XRP Capital\nLead\nMorningstar Ventures\nAmber Group\n+4']
 Arrow-Markets,"['Series A\n30 Mar 2024\nRaised\n$ 4.00M\nInvestors:\nDelphi Digital\nFramework Ventures\nBlizzard Fund', 'Seed\n16 Nov 2021\nRaised\n$ 1.40M\nInvestors:\nDelphi Digital\nFramework Ventures\nCMS Holdings\nQCP Capital\n+4']"
 Sophon-Xyz,['Undisclosed\n29 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nThe Spartan Group\nOKX Ventures\nMaven 11 Capital\nHTX Ventures\n+2']
-Biconomy,"['Strategic\n28 Mar 2024\nRaised\nN/A\nInvestors:\nBalaji Srinivasan\nConsenSys\nJump Capital\nBorderless Capital\n+5', 'Strategic\n1 Sep 2021\nRaised\n$ 625.00K\nPrice:\n$ 0.125\nROI:\n6.11x  +510.6%\nInvestors:\nN/A\nATH ROI:\n167.20x  +16,620%', 'Private Token Sale\n28 Jul 2021\nRaised\n$ 9.00M\nPrice:\n$ 0.075\nROI:\n10.18x  +917.7%\nInvestors:\nCoinbase Ventures\n+22\nATH ROI:\n278.67x  +27,767%', 'Seed\n11 Jan 2021\nRaised\n$ 1.50M\nPrice:\n$ 0.0225\nROI:\n33.92x  +3,292%\nInvestors:\nBinance Labs\n+7\nATH ROI:\n928.89x  +92,789%']"
+Biconomy,"['Strategic\n28 Mar 2024\nRaised\nN/A\nInvestors:\nBalaji Srinivasan\nConsenSys\nJump Capital\nBorderless Capital\n+5', 'Strategic\n1 Sep 2021\nRaised\n$ 625.00K\nPrice:\n$ 0.125\nROI:\n3.70x  +270%\nInvestors:\nN/A\nATH ROI:\n167.20x  +16,620%', 'Private Token Sale\n28 Jul 2021\nRaised\n$ 9.00M\nPrice:\n$ 0.075\nROI:\n6.17x  +516.7%\nInvestors:\nCoinbase Ventures\n+22\nATH ROI:\n278.67x  +27,767%', 'Seed\n11 Jan 2021\nRaised\n$ 1.50M\nPrice:\n$ 0.0225\nROI:\n20.56x  +1,956%\nInvestors:\nBinance Labs\n+7\nATH ROI:\n928.89x  +92,789%']"
 Midas-App,['Seed\n28 Mar 2024\nRaised\n$ 8.75M\nInvestors:\nFramework Ventures\nLead\nBlocktower Capital\nLead\nHV Capital\nLead\nCoinbase Ventures\n+10']
 Flock,['Seed\n28 Mar 2024\nRaised\n$ 6.00M\nInvestors:\nFaction\nLead\nTagus Capital\nLead\nDigital Currency Group (DCG)\nOKX Ventures\n+2']
 Taproot-Labs,"['Undisclosed\n28 Mar 2024\nRaised\nN/A\nInvestors:\nNegentropy Capital\nLead\nBitValue Capital\nHussein Family Office\nDigital Pacific Holding', 'Undisclosed\n5 Mar 2024\nRaised\nN/A\nInvestors:\nWaterdrip Capital\nNegentropy Capital\nSatoshiLab']"
-Dappos,[]
-Parallel-Life,[]
-Rug-Ai,[]
-Hive,[]
-Unstable-Protocol,[]
-Bloodloop,[]
-Build-On-Bitcoin,[]
-Elixir-Games,[]
-Illuvium,[]
-Bitlayer,[]
-Myshell,[]
-Neutronpay,[]
-Peaq,[]
-Metablox,[]
-Kimafinance,[]
-Myprize,[]
-0-G-Labs,[]
-Ordinalsbot,[]
-Voltz-Labs,[]
-Gunzilla-Games,[]
-Alex-Lab,[]
-Blockgames,[]
-Nubit,[]
-Satoshi-Protocol,[]
-Alienx,[]
+Dappos,"['Series A\n28 Mar 2024\nValuation\n$ 300M\nRaised\n$ 15.30M\nInvestors:\nPolychain Capital\nLead\nAmber Group\nNGC Ventures\nWaterdrip Capital\n+12', 'Seed\n20 Jul 2023\nValuation\n$ 50M\nRaised\nN/A\nInvestors:\nHongShan (ex-Sequoia China)\nLead\nIDG Capital\nLead\nHashKey Capital\nOKX Ventures\n+9', 'Undisclosed\n20 Jun 2023\nRaised\nN/A\nInvestors:\nBinance Labs']"
+Parallel-Life,"['Undisclosed\n28 Mar 2024\nRaised\n$ 35.00M\nInvestors:\nThe Spartan Group\nSolana Ventures\nDistributed Global\nAmber Group\n+16', 'Undisclosed\n21 Oct 2021\nValuation\n$ 500M\nRaised\n$ 50.00M\nInvestors:\nParadigm']"
+Rug-Ai,['Pre-Seed\n27 Mar 2024\nRaised\n$ 1.10M\nInvestors:\nNo Limit Holdings\nLead\nMask Network\nFormless Capital\nBuilder Capital\n+6']
+Hive,"['Series A\n27 Mar 2024\nRaised\n$ 13.00M\nInvestors:\nSC Ventures\nLead\nOneRagtime', 'Seed\n1 Jun 2022\nRaised\n$ 7.50M\nInvestors:\nOneRagtime\nLead\nGlobal Ventures\nLead\nLeFonds\nTom Glocer\n+2']"
+Unstable-Protocol,['Seed\n27 Mar 2024\nRaised\n$ 2.50M\nInvestors:\nLattice\nBlockchain Founders Fund\nBlackEdge Capital\nLaser Digital\n+10']
+Bloodloop,['Seed\n27 Mar 2024\nRaised\n$ 4.00M\nInvestors:\nMerit Circle\nAvalanche Foundation\nCitizen Capital']
+Build-On-Bitcoin,"['Seed\n15 Apr 2024\nRaised\nN/A\nInvestors:\nCoinbase Ventures', 'Seed\n27 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nCastle Capital\nLead\nCMS Holdings\nIOSG Ventures\nMechanism Capital\n+16']"
+Elixir-Games,['Seed\n27 Mar 2024\nRaised\n$ 14.00M\nInvestors:\nShima Capital\nSquare Enix\nSolana Foundation']
+Illuvium,"['Series A\n27 Mar 2024\nRaised\n$ 12.00M\nInvestors:\nThe Spartan Group\nAnimoca Brands\nPolygon Ventures\nArrington XRP Capital\n+8', 'Undisclosed\n31 May 2023\nRaised\n$ 10.00M\nInvestors:\nFramework Ventures', 'Seed\n12 Mar 2021\nRaised\n$ 4.50M\nPrice:\n$ 3.00\nROI:\n33.10x  +3,210%\nInvestors:\nDelphi Digital\n+16\nATH ROI:\n638.48x  +63,748%']"
+Bitlayer,['Seed\n27 Mar 2024\nRaised\n$ 5.00M\nInvestors:\nFramework Ventures\nLead\nABCDE\nLead\nOKX Ventures\nKenetic Capital\n+28']
+Myshell,"['Pre-Series A\n27 Mar 2024\nRaised\n$ 11.00M\nInvestors:\nDragonFly Capital\nLead\nBalaji Srinivasan\nDelphi Digital\nOKX Ventures\n+6', 'Seed\n16 Oct 2023\nValuation\n$ 57M\nRaised\n$ 5.60M\nInvestors:\nINCE Capital\nLead\nHashKey Capital\nSignum Capital\nSevenX Ventures\n+4']"
+Neutronpay,"['Undisclosed\n27 Mar 2024\nRaised\n$ 1.50M\nInvestors:\nAxiom Asia Private Capital\nLead', 'Seed\n14 Sep 2022\nRaised\n$ 2.25M\nInvestors:\nHivemind Ventures\nLead\nRepublic\nFulgur Ventures\nIterative\n+4']"
+Peaq,"['Undisclosed\n27 Mar 2024\nRaised\n$ 15.00M\nInvestors:\nBorderless Capital\nLead\nGenerative Ventures\nLead\nThe Spartan Group\nAnimoca Brands\n+10', 'Undisclosed\n28 Jun 2022\nRaised\n$ 6.00M\nInvestors:\nFundamental Labs\nLead\nHashKey Capital\nGSR\nMoonrock Capital\n+12', 'Seed\n9 Jun 2021\nRaised\n$ 2.50M\nInvestors:\nScherzer & Co. AG\nLead\nWerner Geissler\nLead\nMeteoric VC']"
+Metablox,"['Undisclosed\n22 Apr 2024\nRaised\nN/A\nInvestors:\nSamsungNext', 'Strategic\n26 Mar 2024\nRaised\n$ 5.00M\nInvestors:\nVolt Capital\nLead\nAnagram Crypto\nLead\nIoTeX\nSNZ Holding\n+7', 'Seed\n16 Mar 2022\nRaised\n$ 2.00M\nInvestors:\nCollab+Currency\nLead\nSynergis\nLead\nSNZ Holding\nNFT Tech\n+3']"
+Kimafinance,"['Strategic\n26 Mar 2024\nRaised\nN/A\nInvestors:\nCastrum Capital', 'Undisclosed\n26 Jul 2022\nRaised\n$ 1.00M\nInvestors:\nBlockchange Ventures\nLead\nBig Brain Holdings\ncoinIX']"
+Myprize,['Undisclosed\n26 Mar 2024\nValuation\n$ 140M\nRaised\n$ 13.00M\nInvestors:\nDragonFly Capital\nLead\nBoxcars Ventures\nLead\nAndreessen Horowitz (a16z)\nMechanism Capital\n+9']
+0-G-Labs,['Pre-Seed\n26 Mar 2024\nRaised\n$ 35.00M\nInvestors:\nHack VC\nLead\nDelphi Digital\nAnimoca Brands\nOKX Ventures\n+3']
+Ordinalsbot,"['Seed\n26 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nDigital Asset Capital Management (DACM)\nLead\nCMS Holdings\nKenetic Capital\nEden Block\n+8', 'Seed\n9 Oct 2023\nRaised\n$ 1.00M\nInvestors:\nSebastien Borget\nLightning Ventures\nBitcoin Frontier Fund\nDeep Ventures\n+7']"
+Voltz-Labs,"['Undisclosed\n26 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nCoinbase Ventures\nFramework Ventures\nFabric Ventures\nStani Kulechov\n+5', 'Seed\n1 Jan 2022\nRaised\n$ 6.00M\nInvestors:\nFramework Ventures\nLead\nCoinbase Ventures\nFabric Ventures\nStani Kulechov\n+10']"
+Gunzilla-Games,"['Undisclosed\n26 Mar 2024\nRaised\n$ 30.00M\nInvestors:\nCoinFund\nLead\nBlizzard Fund\nLead\nMorningstar Ventures\nRepublic Capital', 'Undisclosed\n10 Aug 2022\nRaised\n$ 46.00M\nInvestors:\nRepublic Capital\nLead\nThe Spartan Group\nAnimoca Brands\nMorningstar Ventures\n+14']"
+Alex-Lab,"['Strategic\n26 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nThe Spartan Group\nLead\nCMS Holdings\nDWF Labs\nForesight Ventures\n+6', 'Strategic\n20 Dec 2023\nRaised\nN/A\nInvestors:\nLK Venture', 'Strategic\n14 Mar 2023\nRaised\n$ 2.50M\nInvestors:\nGossamer Capital\nTrust Machines', 'Seed\n15 Nov 2021\nRaised\n$ 5.80M\nInvestors:\nWhite Star Capital\nLead\nCultur3 Capital\nGBIC (Global Blockchain Innovative Capital)\nOK Blockchain Capital']"
+Blockgames,['Undisclosed\n26 Mar 2024\nRaised\n$ 6.00M\nInvestors:\nSfermion\nSusquehanna International Group\nAptos\nMaven Capital\n+16']
+Nubit,"['Pre-Seed\n26 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nOKX Ventures\nNGC Ventures\nLongHash Ventures\nMH Ventures\n+10', 'Angel\n4 Jan 2024\nRaised\nN/A\nInvestors:\nBounce']"
+Satoshi-Protocol,['Seed\n26 Mar 2024\nRaised\nN/A\nInvestors:\nWaterdrip Capital\nLead\nWeb3Port\nLead\nMH Ventures\nCogitent Ventures\n+4']
+Alienx,['Undisclosed\n25 Mar 2024\nValuation\n$ 200M\nRaised\n$ 17.00M\nInvestors:\nOKX Ventures\nC² Ventures\nParticle XYZ\nOffchain Labs\n+9']
+Graphlinq-Protocol,['Strategic\n25 Mar 2024\nRaised\nN/A\nInvestors:\nDWF Labs']
+Bevm,"['Undisclosed\n26 Apr 2024\nRaised\nN/A\nInvestors:\nBitmain', 'Undisclosed\n25 Mar 2024\nValuation\n$ 200M\nRaised\nN/A\nInvestors:\nWaterdrip Capital\nMH Ventures\nLotus Capital\nArkStream Capital\n+8']"
+Meson-Network,"['Strategic\n25 Mar 2024\nRaised\nN/A\nInvestors:\nEverest Ventures\nSummer Ventures', 'Strategic\n15 Mar 2024\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Seed\n27 Jun 2021\nRaised\n$ 3.50M\nInvestors:\nMask Network\nLead\nLibertus Capital\nLead\nHash Global\nLead\nHashKey Capital\n+12']"
+Stake-Stone-Eth,['Undisclosed\n25 Mar 2024\nRaised\nN/A\nInvestors:\nBinance Labs']
+Plena-Finance,"['Undisclosed\n17 Apr 2024\nRaised\n$ 5.00M\nInvestors:\nConsenSys\nGBV Capital\nGalxe\nBig Brain Holdings\n+20', 'Strategic\n23 Mar 2024\nRaised\nN/A\nInvestors:\nPivot']"
+Sablier,['Seed\n22 Mar 2024\nRaised\n$ 4.50M\nInvestors:\nFenbushi Capital\na_capital\nWAGMI Ventures\nFounderheads\n+13']
+Gameplan,['Seed\n22 Mar 2024\nRaised\nN/A\nInvestors:\nPolygon Ventures\nLead\nDouble Peak\nEmchain\nOX.FUN']
+Botto,"['OTC Purchase\n22 Mar 2024\nRaised\n$ 1.67M\nInvestors:\n1kx\nLead\nVariant\nCollab+Currency', 'Strategic\n16 Feb 2023\nRaised\nN/A\nInvestors:\nVariant']"
+Gam-3-S,"['Strategic\n22 Mar 2024\nRaised\n$ 2.00M\nInvestors:\nPolygon Ventures\nSandeep Nailwal\nMerit Circle\nBasics Capital\n+16', 'Seed\n7 Sep 2023\nRaised\n$ 2.00M\nInvestors:\nPolygon Ventures\nLD Capital\nMechanism Capital\nDouble Peak\n+13']"
+Rollie-Finance,['Seed\n22 Mar 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands\nM77 Ventures\nSandy Peng\nAlex Lee\n+1']
+Ainn,['Strategic\n21 Mar 2024\nRaised\nN/A\nInvestors:\nGenblock Capital\nWaterdrip Capital\nBitrise Capital\nAscendEX\n+3']
+Openstamp,['Seed\n21 Mar 2024\nValuation\n$ 50M\nRaised\nN/A\nInvestors:\nAnimoca Brands\nLead\nKuCoin Ventures\nMH Ventures\nLotus Capital\n+7']
+Rails,['Seed\n21 Mar 2024\nRaised\n$ 6.20M\nInvestors:\nSlow Ventures\nLead\nQuantstamp\nCMCC Global\nRound 13 Digital Asset Fund']
+Savage,['Seed\n21 Mar 2024\nRaised\n$ 1.50M\nInvestors:\nFaculty Group\nLead\nMorningstar Ventures\nPolygon Ventures\nAsh Crypto']
+Succinct,['Series A\n21 Mar 2024\nRaised\n$ 55.00M\nInvestors:\nParadigm\nLead\nSandeep Nailwal\nRobot Ventures\nElad Gil\n+7']
+Espresso,"['Series B\n21 Mar 2024\nRaised\n$ 28.00M\nInvestors:\nAndreessen Horowitz (a16z)\nLead', 'Seed\n7 Mar 2022\nRaised\n$ 32.00M\nInvestors:\nSequoia Capital\nLead\nElectric Capital\nLead\nGreylock Partners\nLead\nCoinbase Ventures\n+10']"
+Tensorplex-Labs,['Seed\n21 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nCollab+Currency\nLead\nCanonical Crypto\nLead\nDigital Currency Group (DCG)\nMechanism Capital\n+16']
+Bi-Social,['Undisclosed\n21 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nWAGMI Ventures\nQF Capital\nWeb3Vision']
+Qna-3-Ai,"['Grant\n21 Mar 2024\nRaised\nN/A\nInvestors:\nSolana Foundation', 'Undisclosed\n8 Mar 2024\nRaised\nN/A\nInvestors:\nBinance Labs']"
+Tanssi-Network,"['Strategic\n21 Mar 2024\nRaised\n$ 6.00M\nInvestors:\nKR1\nLead\nSNZ Holding\nLead\nScytale Digital\nLead\nArrington XRP Capital\n+6', 'Seed\n23 May 2023\nRaised\n$ 3.00M\nInvestors:\nArrington XRP Capital\nLead\nHashKey Capital\nHypersphere Ventures\nC² Ventures\n+3']"
+Kiloex,"['Strategic\n21 Mar 2024\nRaised\nN/A\nInvestors:\nForesight Ventures\nPoolz Ventures\nManta Network\n7UpDAO\n+1', 'Undisclosed\n4 Aug 2023\nRaised\nN/A\nInvestors:\nBinance Labs']"
+Nebula-Revelation,['Strategic\n21 Mar 2024\nRaised\nN/A\nInvestors:\nDWF Labs\nWaterdrip Capital\nStratified Capital\nCapsuleX Labs\n+1']
+Hyperplay,"['Strategic\n21 Mar 2024\nRaised\nN/A\nInvestors:\nSquare Enix', 'Series A\n8 Jun 2023\nRaised\n$ 12.00M\nInvestors:\nBitkraft Ventures\nLead\nGriffin Gaming Partners\nLead\nDelphi Digital\nConsenSys\n+4']"
+Castle-Of-Blackwater,['Strategic\n20 Mar 2024\nRaised\n$ 1.00M\nInvestors:\n3Commas\nFaculty Group\nMetrics Ventures']
+Asterix-Labs,"['Strategic\n20 Mar 2024\nRaised\nN/A\nInvestors:\nHashed Fund\nEverest Ventures\nMomentum 6\nArcane Group\n+5', 'Strategic\n12 Mar 2024\nRaised\nN/A\nInvestors:\nKevin Lin\nSpirit DAO\ndingaling\nRay Chan\n+2']"
+Mystiko-Network,['Seed\n20 Mar 2024\nRaised\n$ 18.00M\nInvestors:\nPeak XV Partners(ex-Sequoia India)\nLead\nHashKey Capital\nMorningstar Ventures\nSandeep Nailwal\n+7']
+Ooga-Booga,['Seed\n20 Mar 2024\nRaised\n$ 1.00M\nInvestors:\nKenetic Capital\nLead\nSandeep Nailwal\nPANONY\nCitizenX Crypto Ventures\n+15']
+Earlyfans,['Seed\n20 Mar 2024\nRaised\n$ 1.50M\nInvestors:\nGBV Capital\nAlliance DAO\nAlchemy\nGSR\n+8']
+Morph,"['Seed\n20 Mar 2024\nRaised\n$ 20.00M\nInvestors:\nDragonFly Capital\nLead\nPantera Capital\nThe Spartan Group\nSandeep Nailwal\n+11', 'Undisclosed\n11 Dec 2023\nRaised\nN/A\nInvestors:\nBitget']"
+Eesee,"['Strategic\n20 Mar 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands', 'Undisclosed\n10 Jan 2024\nRaised\n$ 2.85M\nInvestors:\nSevenX Ventures\nMaven Capital\ngmoney\nDaedalus\n+16']"
+Bornless,['Seed\n19 Mar 2024\nRaised\n$ 6.66M\nInvestors:\nThe Spartan Group\nInfinity Ventures Crypto\n6th Man Ventures\nConcave\n+8']
+Tokenize-Xchange,"['Undisclosed\n19 Mar 2024\nRaised\nN/A\nInvestors:\nTRIVE', 'Series A\n12 Aug 2022\nRaised\n$ 11.50M\nInvestors:\nN/A']"
+Metaverse-Hq,['Seed\n19 Mar 2024\nRaised\nN/A\nInvestors:\nConsenSys\nLead\nPolygon Ventures\nLead\nGate.io\nLBank\n+2']
+Carrieverse,['Undisclosed\n19 Mar 2024\nRaised\nN/A\nInvestors:\nAlpha Token Capital']
+Keyring-Network,['Seed\n19 Mar 2024\nRaised\n$ 6.00M\nInvestors:\ngumi Cryptos\nLead\nGreenfield Capital\nLead\nKima Ventures\nMotier Ventures']
+Kemet-Trading,"['Undisclosed\n19 Mar 2024\nRaised\n$ 5.00M\nInvestors:\nFurther Ventures\nLead\nC² Ventures\nQCP Capital\nFalconX\n+2', 'Seed\n31 Aug 2022\nRaised\nN/A\nInvestors:\nC² Ventures\nGenesis\nLedgerPrime\nFlow Traders\n+2']"
+Trex-20,['Undisclosed\n19 Mar 2024\nRaised\n$ 1.00M\nInvestors:\nx21 Digital\nMoonrock Capital\nMarshland Capital\nOddiyana Ventures\n+3']
+Gull-Network,[]
+Umoja-Labs,[]
+Dolomite,"['Strategic\n19 Mar 2024\nRaised\n$ 900.00K\nInvestors:\nSandeep Nailwal\nOptic Capital\nDCF God\nDeFi Dad\n+7', 'Grant\n13 Oct 2023\nRaised\n$ 804.00K\nInvestors:\nArbitrum Foundation', 'Undisclosed\n12 May 2023\nRaised\n$ 2.50M\nInvestors:\nNGC Ventures\nLead\nDraper Goren Holm\nLead\nCoinbase Ventures\n6th Man Ventures\n+1']"
+Grvt,"['Strategic\n19 Mar 2024\nRaised\n$ 2.20M\nInvestors:\nQCP Capital\nSelini Capital\nPulsar Trading', 'Seed\n19 Sep 2023\nValuation\n$ 39M\nRaised\n$ 5.00M\nInvestors:\nDelphi Digital\nLead\nMatrix Partners\nLead\nCMS Holdings\nSusquehanna International Group\n+3', 'Pre-Seed\n1 Oct 2022\nRaised\n$ 2.10M\nInvestors:\nFolius Ventures\n500 Global']"
+Zkasino,"['Seed\n12 Apr 2024\nRaised\n$ 3.00M\nPrice:\n$ 0.0034\nTokens For Sale:\n882,352,941\nInvestors:\nN/A\nLock-up:\n15% TGE, 3 months cliff, 15 months li...', 'Series A\n19 Mar 2024\nValuation\n$ 350M\nRaised\n$ 26.20M\nPrice:\n$ 0.0393\nTokens For Sale:\n666,666,666\nInvestors:\nMEXC\n+3\nLock-up:\n15% TGE, 3 months cliff, 15 months li...']"
+Mantra-Dao,"['Undisclosed\n19 Mar 2024\nRaised\n$ 11.00M\nInvestors:\nShorooq Partners\nLead\nGameFi Ventures\nMapleblock Capital\nToken Bay Capital\n+7', 'Undisclosed\n15 Aug 2020\nRaised\nN/A\nInvestors:\nLD Capital\nGenblock Capital\nKenetic Capital\nWaterdrip Capital\n+9']"
+Bitbrand,['Undisclosed\n18 Mar 2024\nRaised\n$ 500.00K\nInvestors:\nHustle Fund\nGFR Fund\nSide Door Ventures']
+Crypto-Rogue-Games,['Seed\n18 Mar 2024\nRaised\n$ 1.50M\nInvestors:\nCoinFund\nMerit Circle\nBryan Pellegrino\nSNZ Holding\n+3']
+Juice-Finance,['Undisclosed\n18 Mar 2024\nRaised\n$ 1.00M\nInvestors:\nDelphi Digital\nDWF Labs\nArthur Hayes\nCozomo de Medici\n+4']
+Figure-Markets,['Series A\n18 Mar 2024\nRaised\n$ 60.00M\nInvestors:\nPantera Capital\nLead\nJump Crypto\nLead\nLightspeed Venture Partners\nLead\nCMT Digital\n+2']
+Flash-Protocol,['Undisclosed\n18 Mar 2024\nRaised\nN/A\nInvestors:\nDWF Labs\nSignum Capital\nRarestone Capital\nCogitent Ventures\n+5']
+Entangle,"['Strategic\n18 Mar 2024\nRaised\nN/A\nInvestors:\nConsenSys', 'Undisclosed\n9 Jan 2024\nRaised\n$ 4.00M\nInvestors:\nBig Brain Holdings\nMH Ventures\nFaculty Group\nSeier Capital\n+11']"
+Pac-Finance,['Undisclosed\n16 Mar 2024\nRaised\nN/A\nInvestors:\nManifold']
+Tenprotocol,"['Undisclosed\n15 Mar 2024\nValuation\n$ 30M\nRaised\n$ 9.00M\nInvestors:\nR3\nLead\nDWF Labs\nKuCoin Labs\nRepublic\n+2', 'Undisclosed\n5 Dec 2023\nRaised\n$ 7.50M\nInvestors:\nDWF Labs\nKuCoin Labs\nBig Brain Holdings\nMagnus Capital\n+13']"
+Honeypot-Finance,"['Seed\n15 Mar 2024\nRaised\nN/A\nInvestors:\nCandaq\nDEXT Force Ventures\nPudgy Alpha\nSANYUAN Labs', 'Pre-Seed\n22 Feb 2024\nRaised\nN/A\nInvestors:\nAC Capital\nLead\nDEXT Force Ventures']"
+Avalon-Finance,['Seed\n15 Mar 2024\nRaised\nN/A\nInvestors:\nSpark Digital Capital\nSNZ Holding\nMatrixport\nWeb3Port\n+1']
+Jambo,"['Undisclosed\n15 Mar 2024\nRaised\nN/A\nInvestors:\nWaterdrip Capital', 'Series A\n10 May 2022\nRaised\n$ 30.00M\nInvestors:\nParadigm\nLead\nDelphi Digital\nPantera Capital\nShima Capital\n+21', 'Seed\n21 Feb 2022\nRaised\nN/A\nInvestors:\nCoinbase Ventures\nDelphi Digital\nDeFiance Capital\nTiger Global Management\n+5']"
+Meson-Network,"['Strategic\n25 Mar 2024\nRaised\nN/A\nInvestors:\nEverest Ventures\nSummer Ventures', 'Strategic\n15 Mar 2024\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Seed\n27 Jun 2021\nRaised\n$ 3.50M\nInvestors:\nMask Network\nLead\nLibertus Capital\nLead\nHash Global\nLead\nHashKey Capital\n+12']"
+Mmerch,"[""Seed\n14 Mar 2024\nValuation\n$ 25.7M\nRaised\n$ 6.40M\nInvestors:\nLiberty City Ventures\nLead\nFlamingoDAO\nPunk6529\nChristie's""]"
+Shui,['Seed\n14 Mar 2024\nRaised\nN/A\nInvestors:\nBlockBooster\nLead\nConflux Network']
+Param-Labs,['Strategic\n14 Mar 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands']
+Dlc-Link,['Undisclosed\n14 Mar 2024\nRaised\nN/A\nInvestors:\nOKX Ventures']
+Noia,"['Strategic\n14 Mar 2024\nRaised\nN/A\nInvestors:\nPolygon Ventures\nMoonrock Capital\nFaculty Group\nTRGC\n+6', 'Undisclosed\n23 May 2023\nRaised\n$ 4.00M\nInvestors:\nAlphemy Capital\nSaxon Ventures\nAlpha Transform Group\nDenali Digital\n+1']"
+Range,['Seed\n14 Mar 2024\nRaised\n$ 2.70M\nInvestors:\nGalileo\nLead\nFenbushi Capital\nBitscale Capital\nReverie\n+7']
+D-2-X,"['Series A\n14 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nPoint72 Ventures\nLead\nGSR Ventures', 'Seed\n4 Jan 2022\nRaised\n$ 5.00M\nInvestors:\nTioga Capital Partners\nLead\nFlow Traders\nKima Ventures\nPicus Capital\n+1']"
+Playmadworld,['Series A\n14 Mar 2024\nRaised\n$ 13.00M\nInvestors:\nCom2uS\nLead\nAndreessen Horowitz (a16z)\nBitkraft Ventures\nBlocore\n+3']
+Aevo,['Undisclosed\n14 Mar 2024\nRaised\nN/A\nInvestors:\nPantera Capital']
+Nyan-Heroes,"['Strategic\n14 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nMechanism Capital\nLead\nDelphi Digital\nSfermion\nKosmos Ventures\n+4', 'Strategic\n10 May 2022\nValuation\n$ 10M\nRaised\n$ 7.50M\nInvestors:\nShima Capital\nSino Global Capital\nPetRock Capital\nKosmos Ventures', 'Seed\n30 Oct 2021\nRaised\n$ 2.50M\nInvestors:\nMechanism Capital\nLead\nDeFiance Capital\nLead\nThree Arrows Capital\nLead\nSolana Ventures\n+4']"
+Pallet,['Undisclosed\n14 Mar 2024\nRaised\n$ 2.50M\nInvestors:\nThe Spartan Group\nGBV Capital\ngmoney\nGabby Dizon\n+10']
+Clique,"['Series A\n14 Mar 2024\nRaised\n$ 8.00M\nInvestors:\nPolychain Capital\nLead\nBalaji Srinivasan\nSandeep Nailwal\nRobot Ventures\n+16', 'Seed\n17 Oct 2022\nRaised\n$ 3.00M\nInvestors:\nInfinity Ventures Crypto\nMirana Ventures\nMask Network\nAlliance DAO\n+15']"
+Bitrealms,[]
+Polyhedra-Network,"['Undisclosed\n14 Mar 2024\nValuation\n$ 1B\nRaised\n$ 20.00M\nInvestors:\nPolychain Capital\nLead\nHashKey Capital\nAnimoca Brands\nLongHash Ventures\n+7', 'Series A\n9 Jan 2024\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Pre-Series A\n4 Apr 2023\nRaised\n$ 15.00M\nInvestors:\nPolychain Capital\nLead\nHashKey Capital\nKuCoin Ventures\nNGC Ventures\n+5', 'Strategic\n21 Feb 2023\nRaised\n$ 10.00M\nInvestors:\nPolychain Capital\nLead\nBinance Labs\nLead\nAnimoca Brands\ndao5']"
+Edu-3-Labs,[]
+Orangedx,['Undisclosed\n13 Mar 2024\nRaised\n$ 1.50M\nInvestors:\nGBV Capital\nx21 Digital\nOddiyana Ventures\nNxGen\n+1']
+Uxlink,['Undisclosed\n13 Mar 2024\nRaised\n$ 9.00M\nInvestors:\nOKX Ventures\nKuCoin Ventures\nGate Labs\nUOB Venture\n+5']
+Demr,"['Angel\n13 Mar 2024\nRaised\nN/A\nInvestors:\nKuCoin Labs\nDWF Labs\nPAKA\nRedline DAO\n+2', 'Strategic\n4 Jan 2024\nRaised\nN/A\nInvestors:\nKuCoin Labs']"
+Fjord-Foundry,['Seed\n13 Mar 2024\nRaised\n$ 4.30M\nInvestors:\nLemniscap\nLead\nMechanism Capital\nZee Prime Capital\nCastle Capital\n+4']
+Munchables,['Pre-Seed\n13 Mar 2024\nRaised\nN/A\nInvestors:\nMechanism Capital\nLead\nManifold\nLead\nSelini Capital\nDuplicate Capital\n+6']
+Cleartoken,['Seed\n13 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nGSR\nFlow Traders\nLaser Digital\nZodia Custody\n+1']
+Ivendpay,['Undisclosed\n12 Mar 2024\nRaised\nN/A\nInvestors:\nDanu Ventures']
+Asterix-Labs,"['Strategic\n20 Mar 2024\nRaised\nN/A\nInvestors:\nHashed Fund\nEverest Ventures\nMomentum 6\nArcane Group\n+5', 'Strategic\n12 Mar 2024\nRaised\nN/A\nInvestors:\nKevin Lin\nSpirit DAO\ndingaling\nRay Chan\n+2']"
+Ethernity-Chain,"['Undisclosed\n12 Mar 2024\nRaised\nN/A\nInvestors:\nMorningstar Ventures', 'Seed\n10 Feb 2022\nRaised\n$ 20.00M\nInvestors:\nMorningstar Ventures\nKenetic Capital\nPolygon Studios\nRipple\n+6', 'Strategic\n18 Feb 2021\nRaised\nN/A\nInvestors:\nMorningstar Ventures\nGBV Capital\nSpark Digital Capital\nBlackEdge Capital\n+1']"
+Metal-Core,[]
+Snowseed,['Strategic\n12 Mar 2024\nRaised\n$ 5.00M\nInvestors:\nMedi Crypto International\nBuckingham']
+Oneness,['Seed\n12 Mar 2024\nRaised\n$ 4.00M\nInvestors:\nFineWill Capital']
+Certi-K,[]
+Privasea,"['Strategic\n4 Apr 2024\nRaised\nN/A\nInvestors:\nOKX Ventures\nLaser Digital\nTané', 'Strategic\n12 Mar 2024\nRaised\nN/A\nInvestors:\nDanu Ventures', 'Seed\n4 Mar 2024\nRaised\n$ 5.00M\nInvestors:\nBinance Labs\nMH Ventures\nBasics Capital\nGate Labs\n+6']"
+Solak-Gpt,[]
+Metacene,"['Series A\n12 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nThe Spartan Group\nAnimoca Brands\nSevenX Ventures\nFolius Ventures\n+4', 'Seed\n14 Jul 2023\nRaised\n$ 5.00M\nInvestors:\nSevenX Ventures\nLead\nHash Global\nLead\nEmurgo\nWemade\n+3']"
+Elixir-Finance,"['Series B\n12 Mar 2024\nValuation\n$ 800M\nRaised\n$ 8.00M\nInvestors:\nMaelstrom\nLead\nMysten Labs\nLead\nAmber Group\nArthur Hayes\n+3', 'Series A\n18 Oct 2023\nValuation\n$ 100M\nRaised\n$ 7.50M\nInvestors:\nHack VC\nLead\nNGC Ventures\nBloccelerate\nAngelList', 'Seed\n17 Jan 2023\nRaised\n$ 2.10M\nInvestors:\nInception capital\nChapter One\nFalconX\nBitMEX']"
+Xlink-Btc,['Undisclosed\n11 Mar 2024\nRaised\nN/A\nInvestors:\nKuCoin Ventures\nForesight Ventures\nKyros Ventures\nGate Labs\n+9']
+Kaskade-Finance,['Pre-Seed\n11 Mar 2024\nRaised\nN/A\nInvestors:\nMarshland Capital\nNxGen\nAndromeda Capital\nHercules DAO\n+6']
+Blockus,['Pre-Seed\n11 Mar 2024\nRaised\n$ 4.00M\nInvestors:\nMaple VC\nLead\nBryan Pellegrino\nAltos Ventures\nZhuoxun Yin\n+1']
+Nft-Fi,"['Series A\n11 Mar 2024\nRaised\n$ 6.00M\nInvestors:\nPlaceholder Ventures\nLead\nMaven 11 Capital\nLaunch Lab\nKahuna Ventures', 'Seed\n16 Nov 2021\nRaised\n$ 5.00M\nInvestors:\n1kx\nLead\nMaven 11 Capital\nScalar Capital\nSound Ventures\n+1', 'Seed\n25 Feb 2021\nRaised\n$ 890.00K\nInvestors:\nAnimoca Brands\nMaven 11 Capital\n1kx\nCoinFund\n+2']"
+Eclipse-Fnd,"['Series A\n11 Mar 2024\nRaised\n$ 50.00M\nInvestors:\nHack VC\nLead\nPlaceholder Ventures\nLead\nPolychain Capital\nDelphi Digital\n+3', 'Pre-Seed\n27 Sep 2022\nRaised\n$ 6.00M\nInvestors:\nPolychain Capital\nLead\nPolygon Ventures\nTribe Capital\nAccel\n+3', 'Seed\n27 Sep 2022\nRaised\n$ 9.00M\nInvestors:\nTribe Capital\nLead\nTabiya\nLead\nInfinity Ventures Crypto\nCoinList\n+2']"
+Bluwhale,['Seed\n11 Mar 2024\nRaised\n$ 7.00M\nInvestors:\nSBI Investment\nLead\nAnimoca Brands\ngumi Cryptos\nGHAF Capital Partners\n+8']
+Unisat,"['Strategic\n11 Mar 2024\nRaised\nN/A\nInvestors:\nCGV FoF', 'Pre-Series A\n9 Feb 2024\nRaised\nN/A\nInvestors:\nOKX Ventures\nABCDE\nVitalbridge Capital', 'Strategic\n30 Nov 2023\nRaised\nN/A\nInvestors:\nLK Venture']"
+Dream-Os,['Seed\n9 Mar 2024\nRaised\n$ 2.10M\nInvestors:\nArca\nLead\nPolygon Ventures\nHack VC\nMantle\n+6']
+Optimism,"['OTC Purchase\n8 Mar 2024\nRaised\n$ 89.00M\nInvestors:\nN/A', 'Series B\n17 Mar 2022\nRaised\n$ 150.00M\nInvestors:\nAndreessen Horowitz (a16z)\nParadigm', 'Series A\n24 Feb 2021\nRaised\n$ 25.00M\nInvestors:\nAndreessen Horowitz (a16z)\nLead\nParadigm\nIDEO CoLab Ventures', 'Seed\n15 Dec 2020\nRaised\n$ 3.50M\nInvestors:\nParadigm\nIDEO CoLab Ventures']"
+Poolz-Finance,['Strategic\n8 Mar 2024\nRaised\nN/A\nInvestors:\nGotbit']
+Bitsmiley,"['Strategic\n8 Mar 2024\nRaised\nN/A\nInvestors:\nSatoshiLab', 'Strategic\n4 Mar 2024\nRaised\nN/A\nInvestors:\nKuCoin Ventures', 'Undisclosed\n28 Jan 2024\nRaised\nN/A\nInvestors:\nOKX Ventures\nLead\nABCDE\nLead\nCMS Holdings\nWaterdrip Capital\n+9']"
+Coti,['Strategic\n8 Mar 2024\nRaised\nN/A\nInvestors:\nMorningstar Ventures']
+Debox,[]
+Uxuy,"['Undisclosed\n8 Mar 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Undisclosed\n21 Aug 2023\nRaised\nN/A\nInvestors:\nMEXC', 'Seed\n11 Apr 2023\nRaised\n$ 3.20M\nInvestors:\nKuCoin Ventures\nWaterdrip Capital\nBixin Ventures\nArcane Group\n+4']"
+Qna-3-Ai,"['Grant\n21 Mar 2024\nRaised\nN/A\nInvestors:\nSolana Foundation', 'Undisclosed\n8 Mar 2024\nRaised\nN/A\nInvestors:\nBinance Labs']"
+Derivio,['Undisclosed\n8 Mar 2024\nRaised\nN/A\nInvestors:\nBinance Labs']
+Cellula,"['Pre-Seed\n5 Apr 2024\nRaised\n$ 2.00M\nInvestors:\nOKX Ventures\nLead\nSevenX Ventures\nLead\nMask Network\nForesight Ventures', 'Undisclosed\n8 Mar 2024\nRaised\nN/A\nInvestors:\nBinance Labs']"
+Orionprotocol,[]
+Vrrb-Labs,"['Undisclosed\n7 Mar 2024\nRaised\nN/A\nInvestors:\nLBank', 'Seed\n6 Dec 2023\nValuation\n$ 50M\nRaised\n$ 2.30M\nInvestors:\nRepublic\nNGC Ventures\nHyperithm', 'Pre-Seed\n8 Feb 2023\nValuation\n$ 20M\nRaised\n$ 1.40M\nInvestors:\nJump Crypto\nBig Brain Holdings\nTaureon Capital']"
+Crypto-Slam,[]
+Beoble,"['Strategic\n7 Mar 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands', 'Seed\n19 Feb 2024\nRaised\n$ 5.00M\nPrice:\n$ 0.035\nROI:\n1.52x  +52%\nInvestors:\nHashKey Capital\n+10\nATH ROI:\n13.16x  +1,216%', 'Strategic\n15 Jan 2024\nRaised\nN/A\nInvestors:\nDWF Labs', 'Pre-Seed\n15 Nov 2023\nRaised\n$ 2.00M\nPrice:\n$ 0.015\nROI:\n3.55x  +254.6%\nInvestors:\nHashKey Capital\n+5\nATH ROI:\n30.71x  +2,971%']"
+Bison-Network,[]
+Blackwing,['Strategic\n7 Mar 2024\nRaised\n$ 4.50M\nInvestors:\nHashed Fund\nLead\ngumi Cryptos\nLead\nAptos\nArche Fund\n+11']
+Cosmology,[]
+Oyl,['Pre-Seed\n7 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nArca\nLead\nMask Network\nArthur Hayes\nBorderless Capital\n+20']
+Zama,[]
+Kravata,['Seed\n6 Mar 2024\nRaised\n$ 3.60M\nInvestors:\nFramework Ventures\nVolt Capital\nMagma Partners\nCircle Ventures\n+1']
+Sx-Network-New,[]
+Toncoin,"['Undisclosed\n6 Mar 2024\nRaised\n$ 8.00M\nInvestors:\nMirana Ventures', 'Undisclosed\n1 Dec 2023\nRaised\nN/A\nInvestors:\nKuCoin Ventures', 'Undisclosed\n28 Nov 2023\nRaised\nN/A\nInvestors:\nAnimoca Brands', 'Undisclosed\n4 Oct 2023\nRaised\nN/A\nInvestors:\nMEXC', 'Undisclosed\n16 May 2023\nRaised\nN/A\nInvestors:\nMask Network', 'Undisclosed\n17 Nov 2022\nRaised\n$ 10.00M\nInvestors:\nDWF Labs\nLead', 'Undisclosed\n6 Apr 2021\nRaised\n$ 6.00M\nInvestors:\nRuna Capital\nLead']"
+Synnax-Technologies,[]
+Hedgehog-Protocol,['Pre-Seed\n6 Mar 2024\nRaised\n$ 1.50M\nInvestors:\nZBS CAPITAL\n3Commas\nMarshland Capital\nTenzor Capital\n+12']
+Firewall,['Pre-Seed\n6 Mar 2024\nRaised\n$ 3.70M\nInvestors:\nHack VC\nLead\nNorth Island Ventures\nLead\nBreyer Capital\nLead\nKain Warwick\n+7']
+Io-Net,['Series A\n5 Mar 2024\nRaised\n$ 30.00M\nInvestors:\nHack VC\nLead\nMulticoin Capital\nDelphi Digital\nAnimoca Brands\n+20']
+Utila,['Seed\n5 Mar 2024\nRaised\n$ 11.50M\nInvestors:\nBalaji Srinivasan\nDigital Currency Group (DCG)\nShima Capital\nFramework Ventures\n+18']
+Sahara,['Seed\n5 Mar 2024\nRaised\n$ 6.00M\nInvestors:\nPolychain Capital\nLead\nSequoia Capital\nSamsungNext\nAlumni Ventures Group\n+9']
+Tokenfi,['Undisclosed\n5 Mar 2024\nRaised\n$ 10.00M\nInvestors:\nDWF Labs']
+Taproot-Labs,"['Undisclosed\n28 Mar 2024\nRaised\nN/A\nInvestors:\nNegentropy Capital\nLead\nBitValue Capital\nHussein Family Office\nDigital Pacific Holding', 'Undisclosed\n5 Mar 2024\nRaised\nN/A\nInvestors:\nWaterdrip Capital\nNegentropy Capital\nSatoshiLab']"
+Baanx,['Series A\n5 Mar 2024\nRaised\n$ 20.00M\nInvestors:\nTezos Foundation\nLead\nLedger Capital\nLead\nChiron Partners\nBritish Business Bank']
+Bouncebit,"['Strategic\n11 Apr 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Strategic\n5 Mar 2024\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Seed\n28 Feb 2024\nRaised\n$ 6.00M\nInvestors:\nBlockchain Capital\nLead\nBreyer Capital\nLead\nOKX Ventures\nCMS Holdings\n+21']"
+Mirrorl-2,['Seed\n4 Mar 2024\nRaised\nN/A\nInvestors:\nUTXO Management\nBitcoin Magazine\nConflux Foundation\nIMO Ventures']
+Stack-Co,['Seed\n4 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nArchetype Ventures\nLead\nCoinbase Ventures\nBalaji Srinivasan\na_capital\n+7']
+Privasea,"['Strategic\n4 Apr 2024\nRaised\nN/A\nInvestors:\nOKX Ventures\nLaser Digital\nTané', 'Strategic\n12 Mar 2024\nRaised\nN/A\nInvestors:\nDanu Ventures', 'Seed\n4 Mar 2024\nRaised\n$ 5.00M\nInvestors:\nBinance Labs\nMH Ventures\nBasics Capital\nGate Labs\n+6']"
+Bitsmiley,"['Strategic\n8 Mar 2024\nRaised\nN/A\nInvestors:\nSatoshiLab', 'Strategic\n4 Mar 2024\nRaised\nN/A\nInvestors:\nKuCoin Ventures', 'Undisclosed\n28 Jan 2024\nRaised\nN/A\nInvestors:\nOKX Ventures\nLead\nABCDE\nLead\nCMS Holdings\nWaterdrip Capital\n+9']"
+Chronoforge,['Strategic\n2 Mar 2024\nRaised\n$ 3.00M\nInvestors:\nSwissBorg Ventures\nMH Ventures\nGHAF Capital Partners\nContango Digital Assets\n+15']
+Credshields,['Strategic\n2 Mar 2024\nRaised\n$ 1.00M\nInvestors:\nDraper Associates']
+Taikoxyz,"['Series A\n2 Mar 2024\nRaised\n$ 15.00M\nInvestors:\nHashed Fund\nLead\nLightspeed Venture Partners\nLead\nToken Bay Capital\nLead\nGenerative Ventures\n+7', 'Undisclosed\n8 Jun 2023\nRaised\n$ 22.00M\nInvestors:\nHongShan (ex-Sequoia China)\nLead\nGenerative Ventures\nLead\nOKX Ventures\nIOSG Ventures\n+11', 'Undisclosed\n14 Apr 2023\nRaised\nN/A\nInvestors:\nSkyland Ventures']"
+Zest-Protocol,['Pre-Seed\n1 Mar 2024\nRaised\nN/A\nInvestors:\nYoubi Capital\nLead']
+Karma-3-Labs,['Seed\n1 Mar 2024\nRaised\n$ 4.50M\nInvestors:\nGalaxy\nLead\nIDEO CoLab Ventures\nLead\nHashKey Capital\nThe Spartan Group\n+8']
+Name,Funding Details
+Orbit-Protocol,['Undisclosed\n1 Mar 2024\nRaised\nN/A\nInvestors:\nGBV Capital\nManifold\nDefiSquared\nAndrew Kang\n+2']
+Imaginary-Ones,['Undisclosed\n29 Feb 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands\nSebastien Borget\nMH Ventures\nCypher Capital\n+8']
+Silence-Laboratories,"['Undisclosed\n29 Feb 2024\nRaised\n$ 4.10M\nInvestors:\nPi Ventures\nLead\nKira Studio', 'Seed\n31 Aug 2022\nRaised\n$ 1.70M\nInvestors:\nPi Ventures\nLead\nimToken Ventures\nPriyeshu Garg\nMahin Gupta\n+3']"
+Linkto,['Undisclosed\n29 Feb 2024\nRaised\nN/A\nInvestors:\nAdaverse\nRuby Capital\nBitValue Capital\nBlock Infinity Limited\n+1']
+Cetus-Protocol,"['Strategic\n29 Feb 2024\nRaised\nN/A\nInvestors:\nSui Foundation', 'Seed\n2 May 2023\nRaised\nN/A\nInvestors:\nOKX Ventures\nLead\nKuCoin Ventures\nLead\nAnimoca Brands\nJump Crypto\n+7']"
+Octav,"['Strategic\n28 Feb 2024\nRaised\n$ 4.00M\nInvestors:\nN/A', 'Seed\n12 Sep 2023\nRaised\n$ 2.65M\nInvestors:\nNascent\n0xMaki\nSpeedinvest\nPolymorphic Capital\n+15']"
+Integral-Xyz,"['Angel\n16 Apr 2024\nRaised\nN/A\nInvestors:\nBryan Pellegrino\nRaj Gokal\nWill Papper\nHenri Stern\n+5', 'Undisclosed\n28 Feb 2024\nRaised\nN/A\nInvestors:\nFranklin Templeton Investments', 'Strategic\n24 Oct 2023\nRaised\nN/A\nInvestors:\nCoinbase Ventures', 'Undisclosed\n20 Sep 2022\nRaised\n$ 8.50M\nInvestors:\nElectric Capital\nLead\nBalaji Srinivasan\nElad Gil\nHustle Fund\n+12']"
+Mxc,['Undisclosed\n28 Feb 2024\nRaised\n$ 10.00M\nInvestors:\nJDI Venture']
+Contributiondao,['Seed\n28 Feb 2024\nRaised\n$ 2.80M\nInvestors:\nGuildFi\nAxelar Network\nAgnostic Fund\nKX\n+4']
+Bouncebit,"['Strategic\n11 Apr 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Strategic\n5 Mar 2024\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Seed\n28 Feb 2024\nRaised\n$ 6.00M\nInvestors:\nBlockchain Capital\nLead\nBreyer Capital\nLead\nOKX Ventures\nCMS Holdings\n+21']"
+Co-Museum,['Undisclosed\n28 Feb 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands']
+Ready-Games-Network,"['Undisclosed\n28 Feb 2024\nRaised\n$ 4.00M\nInvestors:\nDelphi Digital\nMerit Circle\nToken Metrics\nMomentum 6\n+3', 'Private Token Sale\n6 May 2022\nRaised\n$ 3.00M\nInvestors:\nBitkraft Ventures\nLead\nThe Spartan Group\nHashed Fund\nPolygon Ventures\n+10']"
+Ether-Fi,"['Series A\n28 Feb 2024\nRaised\n$ 27.00M\nInvestors:\nCoinFund\nLead\nBullish\nLead\nConsenSys\nArrington XRP Capital\n+22', 'Undisclosed\n28 Feb 2023\nRaised\n$ 5.30M\nInvestors:\nChapter One\nLead\nNorth Island Ventures\nLead\nArrington XRP Capital\nMaelstrom\n+3']"
+Coral,[]
+Morpho,"['Undisclosed\n28 Feb 2024\nRaised\nN/A\nInvestors:\nPantera Capital', 'Extended Seed\n12 Jul 2022\nRaised\n$ 18.00M\nInvestors:\nAndreessen Horowitz (a16z)\nLead\nVariant\nLead\nCoinbase Ventures\nNascent\n+18', 'Seed\n22 Oct 2021\nRaised\n$ 1.35M\nInvestors:\nNascent\nLead\nSemantic Ventures\nLead\nFaculty Group\nAngelDAO\n+3']"
+Humanity-Protocol,['Strategic\n28 Feb 2024\nRaised\nN/A\nInvestors:\nHashed Fund\nMechanism Capital\nSandeep Nailwal\nForesight Ventures\n+3']
+Sphere-Labs,['Seed\n27 Feb 2024\nRaised\n$ 2.80M\nInvestors:\nJump Crypto\nLead\nTCG Crypto\nLead\nSolana Ventures\nRepublic\n+10']
+Qed-Protocol,['Undisclosed\n27 Feb 2024\nRaised\n$ 3.00M\nInvestors:\nArrington XRP Capital\nLead\nDraper Dragon\nValhalla Capital\nStarkWare\n+4']
+Geodnet,"['Strategic\n16 Apr 2024\nRaised\n$ 2.00M\nInvestors:\nPantera Capital\nCoinFund\nSantiago R. Santos\nVanEck', 'Undisclosed\n27 Feb 2024\nRaised\n$ 3.50M\nInvestors:\nNorth Island Ventures\nLead\nIoTeX\nReverie\nBorderless Capital\n+4', 'Private Token Sale\n6 Jul 2023\nRaised\n$ 1.50M\nInvestors:\nBorderless Capital\nLead\nIoTeX']"
+Fair-Math,['Pre-Seed\n27 Feb 2024\nRaised\n$ 1.40M\nInvestors:\ngumi Cryptos\nLead\nInception capital\nLead\nPolymorphic Capital\nLead']
+Arkis,['Pre-Seed\n27 Feb 2024\nRaised\n$ 2.25M\nInvestors:\ngumi Cryptos\nLead\nG1 Ventures\nPsalion VC\nRoosh Ventures']
+Validation-Cloud,['Undisclosed\n27 Feb 2024\nRaised\n$ 5.80M\nInvestors:\nCadenza Ventures\nLead\nBlockchain Founders Fund\nSide Door Ventures\nBloccelerate\n+3']
+Cycle-Network,['Undisclosed\n27 Feb 2024\nRaised\nN/A\nInvestors:\nVertex Ventures\nLead\nSummer Ventures\nLead\nGSG | Great South Gate\nSuperChain Capital\n+2']
+Bitbrawl,['Seed\n27 Feb 2024\nRaised\n$ 3.00M\nPrice:\n$ 0.0015\nROI:\n0.87x  -13.2%\nInvestors:\nShima Capital\n+2\nATH ROI:\n9.73x  +872.9%']
+Initia,"['Seed\n27 Feb 2024\nRaised\n$ 7.50M\nInvestors:\nDelphi Digital\nLead\nHack VC\nLead\nNascent\nBig Brain Holdings\n+8', 'Undisclosed\n12 Oct 2023\nRaised\nN/A\nInvestors:\nBinance Labs']"
+Babylon-Chain,"['Undisclosed\n27 Feb 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Series A\n7 Dec 2023\nRaised\n$ 18.00M\nInvestors:\nPolychain Capital\nLead\nHack VC\nLead\nOKX Ventures\nPolygon Ventures\n+16', 'Seed\n10 Mar 2023\nRaised\n$ 8.00M\nInvestors:\nBreyer Capital\nLead\nIDG Capital\nLead']"
+Buildbear,['Undisclosed\n27 Feb 2024\nRaised\n$ 1.90M\nInvestors:\n1kx\nTribe Capital\nSuperscrypt\nPlug and Play\n+1']
+Play-Makers,['Pre-Seed\n26 Feb 2024\nRaised\n$ 1.50M\nInvestors:\nRockawayX\nLead\nSebastien Borget\nVincent Hart de Keating\nHugues Ouvard']
+Aerodrome,['Undisclosed\n26 Feb 2024\nRaised\nN/A\nInvestors:\nBase Ecosystem Fund']
+Saturn,"['Undisclosed\n26 Feb 2024\nRaised\n$ 800.00K\nInvestors:\nSora Ventures\nLead\nCMS Holdings\nSilvermine\nOsprey Funds\n+4', 'Pre-Seed\n29 Nov 2023\nRaised\n$ 500.00K\nInvestors:\nBig Brain Holdings\nLead\nUTXO Management\nBOOGLE\nKelsier']"
+Talus-Network,['Undisclosed\n26 Feb 2024\nRaised\n$ 3.00M\nInvestors:\nPolychain Capital\nLead\nTRGC\nInception capital\ndao5\n+2']
+Xpla,"['Undisclosed\n26 Feb 2024\nRaised\nN/A\nInvestors:\nTess Ventures', 'Strategic\n22 Jun 2023\nRaised\nN/A\nInvestors:\nInfinity Ventures Crypto\nBig Brain Holdings\nPlay Ventures']"
+5Ire,"['Undisclosed\n26 Feb 2024\nRaised\nN/A\nInvestors:\nGotbit', 'Undisclosed\n15 Feb 2022\nRaised\n$ 100.00M\nInvestors:\nGEM Digital', 'Seed\n1 Aug 2021\nValuation\n$ 110M\nRaised\n$ 21.00M\nInvestors:\nMoonrock Capital\nMarshland Capital\nLaunchpool']"
+Avail,['Seed\n26 Feb 2024\nRaised\n$ 27.00M\nInvestors:\nDragonFly Capital\nLead\nFounders Fund\nLead\nBalaji Srinivasan\nSevenX Ventures\n+10']
+Delphinus-Lab,"['Pre-Series A\n26 Feb 2024\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Undisclosed\n21 Aug 2023\nRaised\nN/A\nInvestors:\nBinance Labs']"
+Fortytwo,['Strategic\n24 Feb 2024\nRaised\nN/A\nInvestors:\nLBank\nLead\nLongHash Ventures\nScott Moore\nDoraHacks\n+4']
+Hackquest,['Pre-Seed\n24 Feb 2024\nRaised\n$ 1.10M\nInvestors:\nHashKey Capital\nOutlier Ventures\nHash Global\nScott Moore\n+4']
+Shuffle-Com,['Undisclosed\n23 Feb 2024\nRaised\n$ 2.50M\nInvestors:\nCypher Capital\nBaboon VC\nUpside\nPARC Capital\n+9']
+Flare,"['Undisclosed\n23 Feb 2024\nRaised\n$ 35.00M\nInvestors:\nKenetic Capital\nAves Lair', 'Undisclosed\n8 Jun 2021\nRaised\n$ 11.30M\nInvestors:\nKenetic Capital\nLead\nDigital Currency Group (DCG)\nLD Capital\nCoinFund\n+9', 'Strategic\n6 Nov 2019\nRaised\nN/A\nInvestors:\nXpring Capital\nLead']"
+Ox-Fun,['Undisclosed\n23 Feb 2024\nRaised\n$ 4.00M\nInvestors:\nForesight Ventures\nLead\nGenblock Capital\nDouble Peak\nEmchain']
+Januar,"['Extended Seed\n22 Feb 2024\nRaised\n$ 1.62M\nInvestors:\nCMT Digital\nThird Prime\nSkyfall Ventures\nMichael Gronager', 'Seed\n6 May 2022\nRaised\n$ 6.30M\nInvestors:\nElement Ventures\nLead\nbyFounders\nLead\nAngular Ventures\nLead\nOutward VC\n+5']"
+Superfluid,"['Undisclosed\n22 Feb 2024\nRaised\n$ 5.10M\nInvestors:\nFabric Ventures\nLead\nMulticoin Capital\nCircle\nThe LAO\n+11', 'Seed\n13 Jul 2021\nRaised\n$ 9.00M\nInvestors:\nMulticoin Capital\nLead\nBalaji Srinivasan\nDelphi Digital\nThe LAO\n+30']"
+Portal-Gate,"['Undisclosed\n22 Feb 2024\nRaised\n$ 2.20M\nInvestors:\ngumi Cryptos\nLead\nApollo Capital\nDigital Asset Capital Management (DACM)\nLaser Digital\n+2', 'Seed\n20 Jun 2023\nRaised\n$ 1.10M\nInvestors:\nApollo Capital\nLead\nComma3 Ventures\nCluster Capital\nUpside\n+4']"
+Clave,"['Pre-Seed\n22 Feb 2024\nRaised\n$ 1.60M\nInvestors:\nMatter Labs\nLead\nMirana Ventures\nSafe\nLambdaClass\n+4', 'Grant\n6 Sep 2023\nRaised\nN/A\nInvestors:\nEthereum Foundation']"
+Renzo-Protocol,"['Undisclosed\n22 Feb 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Seed\n15 Jan 2024\nValuation\n$ 25M\nRaised\n$ 3.20M\nInvestors:\nMaven 11 Capital\nLead\nOKX Ventures\nIOSG Ventures\nBitscale Capital\n+10']"
+Eigenlayer,"['Undisclosed\n22 Feb 2024\nRaised\n$ 100.00M\nInvestors:\nAndreessen Horowitz (a16z)', 'Series A\n28 Mar 2023\nValuation\n$ 500M\nRaised\n$ 50.00M\nInvestors:\nBlockchain Capital\nLead\nPolychain Capital\nCoinbase Ventures\nElectric Capital\n+1', 'Seed\n22 Aug 2022\nRaised\n$ 14.50M\nInvestors:\nPolychain Capital\nLead\nEthereal Ventures\nLead\nRobot Ventures\nFigment Capital\n+2']"
+Helius,"['Series A\n22 Feb 2024\nRaised\n$ 9.50M\nInvestors:\nFoundation Capital\nLead\nBalaji Srinivasan\n6th Man Ventures\nChapter One\n+5', 'Seed\n19 Oct 2022\nRaised\n$ 3.10M\nInvestors:\nChapter One\nLead\nReciprocal Ventures\nLead\nSolana Ventures\nAlchemy\n+3']"
+Honeypot-Finance,"['Seed\n15 Mar 2024\nRaised\nN/A\nInvestors:\nCandaq\nDEXT Force Ventures\nPudgy Alpha\nSANYUAN Labs', 'Pre-Seed\n22 Feb 2024\nRaised\nN/A\nInvestors:\nAC Capital\nLead\nDEXT Force Ventures']"
+Nodeshift,['Seed\n21 Feb 2024\nRaised\n$ 3.20M\nInvestors:\nInovo.vc\nLead\nEpic Games\nNotion Capital\n10x Founders\n+1']
+Prometeus,['Undisclosed\n21 Feb 2024\nRaised\nN/A\nInvestors:\nDWF Labs']
+Citrea,['Seed\n21 Feb 2024\nRaised\n$ 2.70M\nInvestors:\nGalaxy\nLead\nDelphi Digital\nJames Parillo\nEric Wall\n+3']
+Matr-1-X,"['Strategic\n21 Feb 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands', 'Undisclosed\n12 Dec 2023\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Extended Series A\n23 Nov 2023\nRaised\n$ 10.00M\nInvestors:\nSevenX Ventures\nLead\nFolius Ventures\nLead\nABCDE\nFind Satoshi Lab\n+2', 'Series A\n19 Sep 2022\nRaised\n$ 10.00M\nInvestors:\nHashKey Capital\nAmber Group\nSevenX Ventures\nHana Financial Investment']"
+Inco-Network,['Seed\n21 Feb 2024\nRaised\n$ 4.50M\nInvestors:\n1kx\nLead\nCircle\nPolygon Ventures\nAlliance DAO\n+3']
+Init-Capital,['Seed\n21 Feb 2024\nRaised\n$ 3.00M\nInvestors:\nElectric Capital\nMirana Ventures\nRobot Ventures\nMaelstrom\n+5']
+Monkey-Tilt,['Undisclosed\n21 Feb 2024\nRaised\n$ 21.00M\nInvestors:\nPolychain Capital\nHack VC\nFolius Ventures\nPokerGO\n+2']
+Zero-Lend,['Seed\n21 Feb 2024\nValuation\n$ 25M\nRaised\n$ 3.00M\nInvestors:\nGBV Capital\nMorningstar Ventures\nGenblock Capital\nBlockchain Founders Fund\n+17']
+Degen-Base,['Angel\n20 Feb 2024\nRaised\n$ 1.46M\nInvestors:\n1confirmation\nLead']
+Jade-98,['Undisclosed\n20 Feb 2024\nRaised\nN/A\nInvestors:\nx21 Digital\nRarestone Capital\nCSP DAO\nDutch Crypto Investors\n+4']
+Meso-Network,"['Seed\n20 Feb 2024\nRaised\n$ 9.50M\nInvestors:\nSolana Ventures\nLead\nRibbit Capital\nLead\n6th Man Ventures\nCanonical Crypto\n+3', 'Undisclosed\n11 May 2023\nRaised\nN/A\nInvestors:\nSolana Ventures\n6th Man Ventures\nRibbit Capital\nAnand Iyer\n+3']"
+Nest-Wallet,['Seed\n20 Feb 2024\nRaised\n$ 3.60M\nInvestors:\nAscensive Assets\ngumi Cryptos\nOrangeDAO\nSebastien Borget\n+8']
+Crystal-Fun,['Seed\n20 Feb 2024\nRaised\n$ 5.00M\nInvestors:\nKuCoin Ventures\nWaterdrip Capital\nComma3 Ventures\nStratified Capital\n+5']
+Tornado-Blast,['Strategic\n19 Feb 2024\nRaised\nN/A\nInvestors:\nMorningstar Ventures\nAtka\nFisher8 Capital\nPunk DAO\n+5']
+Beoble,"['Strategic\n7 Mar 2024\nRaised\nN/A\nInvestors:\nAnimoca Brands', 'Seed\n19 Feb 2024\nRaised\n$ 5.00M\nPrice:\n$ 0.035\nROI:\n1.48x  +47.6%\nInvestors:\nHashKey Capital\n+10\nATH ROI:\n13.16x  +1,216%', 'Strategic\n15 Jan 2024\nRaised\nN/A\nInvestors:\nDWF Labs', 'Pre-Seed\n15 Nov 2023\nRaised\n$ 2.00M\nPrice:\n$ 0.015\nROI:\n3.44x  +244.5%\nInvestors:\nHashKey Capital\n+5\nATH ROI:\n30.71x  +2,971%']"
+Altlayer,"['Strategic\n19 Feb 2024\nRaised\n$ 14.40M\nInvestors:\nPolychain Capital\nLead\nHack VC\nLead', 'Undisclosed\n4 Aug 2023\nRaised\nN/A\nInvestors:\nBinance Labs', 'Seed\n17 Feb 2022\nRaised\n$ 7.20M\nInvestors:\nPolychain Capital\nLead\nJump Crypto\nLead\nBreyer Capital\nLead\nBalaji Srinivasan\n+7']"
+Silencio,['Pre-Seed\n18 Feb 2024\nRaised\n$ 1.00M\nInvestors:\nBorderless Capital\nLead\nMoonrock Capital\nMaster Ventures\nCogitent Ventures']
+Dephy,['Seed\n16 Feb 2024\nValuation\n$ 40M\nRaised\nN/A\nInvestors:\nIoTeX\nWaterdrip Capital\nForesight Ventures\nPAKA\n+5']
+Ethena,"['Strategic\n16 Feb 2024\nValuation\n$ 300M\nRaised\n$ 14.00M\nInvestors:\nDragonFly Capital\nLead\nMaelstrom\nLead', 'Undisclosed\n15 Feb 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Seed\n17 Jul 2023\nRaised\n$ 6.50M\nInvestors:\nDragonFly Capital\nLead\nDelphi Digital\nOKX Ventures\nCMT Digital\n+13']"
+Metropolis,['Undisclosed\n15 Feb 2024\nRaised\n$ 1.20M\nInvestors:\nProtocol Labs\nOutlier Ventures\nCluster Capital\nZephyrus Capital\n+5']
+Nodekit,"['Undisclosed\n15 Feb 2024\nRaised\nN/A\nInvestors:\nAndreessen Horowitz (a16z)', 'Pre-Seed\n13 Dec 2023\nRaised\n$ 1.20M\nInvestors:\nBorderless Capital\nLead\nPolygon Ventures\nBlizzard Fund\nWormhole']"
+Sphinx,['Undisclosed\n15 Feb 2024\nRaised\n$ 2.00M\nInvestors:\nNascent\nVolt Capital\nArchetype Ventures']
+Drosera,['Pre-Seed\n15 Feb 2024\nRaised\n$ 1.50M\nInvestors:\nAnagram Crypto\nLead\nArrington XRP Capital\nSantiago R. Santos\nInfinite Capital\n+12']
+Concrete,['Undisclosed\n15 Feb 2024\nRaised\n$ 7.50M\nInvestors:\nHashed Fund\nLead\nTribe Capital\nLead\nHypersphere Ventures\nAvalanche Foundation\n+9']
+Exverse,['Undisclosed\n15 Feb 2024\nRaised\n$ 3.00M\nPrice:\n$ 0.032\nROI:\n3.10x  +210.1%\nInvestors:\nKuCoin Labs\n+5\nATH ROI:\n8.97x  +796.9%']
+Witness,['Seed\n15 Feb 2024\nRaised\n$ 3.50M\nInvestors:\nHaun Ventures\nLead\nCoinbase Ventures\nTim Beiko\nTarun Chitra\n+4']
+Lava-Network,['Seed\n15 Feb 2024\nRaised\n$ 15.00M\nInvestors:\nHashKey Capital\nLead\nJump Capital\nLead\nTribe Capital\nLead\nAlliance DAO\n+17']
+Helika,"['Series A\n15 Feb 2024\nRaised\n$ 8.00M\nInvestors:\nPantera Capital\nLead\nSfermion\nDiagram Ventures\nSparkle Ventures\n+2', 'Seed\n1 Mar 2023\nRaised\n$ 4.00M\nInvestors:\nDiagram Ventures\nLead\nSfermion\nFenbushi Capital\nBig Brain Holdings\n+3']"
+Meta-Street,"['Undisclosed\n15 Feb 2024\nRaised\n$ 25.00M\nInvestors:\ngmoney\nMr. Block\nDCF God\ndingaling\n+2', 'Undisclosed\n13 Oct 2022\nRaised\n$ 10.00M\nInvestors:\nDragonFly Capital\nDigital Currency Group (DCG)\nNascent\nMirana Ventures\n+9', 'Seed\n8 Feb 2022\nRaised\n$ 14.00M\nInvestors:\nDragonFly Capital\nLead\nAnimoca Brands\nCMT Digital\nNascent\n+12']"
+Shogun,['Undisclosed\n15 Feb 2024\nRaised\nN/A\nInvestors:\nBinance Labs']
+Nfprompt,"['Undisclosed\n15 Feb 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Seed\n12 Jun 2023\nValuation\n$ 60M\nRaised\nN/A\nInvestors:\nN/A']"
+Ethena,"['Strategic\n16 Feb 2024\nValuation\n$ 300M\nRaised\n$ 14.00M\nInvestors:\nDragonFly Capital\nLead\nMaelstrom\nLead', 'Undisclosed\n15 Feb 2024\nRaised\nN/A\nInvestors:\nBinance Labs', 'Seed\n17 Jul 2023\nRaised\n$ 6.50M\nInvestors:\nDragonFly Capital\nLead\nDelphi Digital\nOKX Ventures\nCMT Digital\n+13']"
+Overworld,"['Seed\n14 Feb 2024\nRaised\n$ 10.00M\nInvestors:\nHashed Fund\nLead\nHashKey Capital\nThe Spartan Group\nBig Brain Holdings\n+5', 'Undisclosed\n6 Feb 2023\nRaised\n$ 2.50M\nInvestors:\nXterio']"
+Architect,"['Undisclosed\n14 Feb 2024\nRaised\n$ 12.00M\nInvestors:\nBlocktower Capital\nLead\nTioga Capital Partners\nLead\nCoinbase Ventures\nCMT Digital\n+6', 'Undisclosed\n20 Jan 2023\nRaised\n$ 5.00M\nInvestors:\nCoinbase Ventures\nLead\nCircle\nLead\nSV Angel\n3K VC\n+2']"
+Ultiverse,"['Undisclosed\n14 Feb 2024\nValuation\n$ 150M\nRaised\n$ 4.00M\nPrice:\n$ 0.01\nTokens For Sale:\n400,000,000\nInvestors:\nAnimoca Brands\n+12\nLock-up:\n6,66% at TGE, then 93,33% linear over...', 'Undisclosed\n25 Mar 2022\nRaised\n$ 5.00M\nPrice:\n$ 0.01\nTokens For Sale:\n500,000,000\nInvestors:\nBinance Labs\nLock-up:\n6,66% at TGE, then 93,33% linear over...', 'Seed\n18 Mar 2022\nValuation\n$ 50M\nRaised\n$ 4.50M\nPrice:\n$ 0.005\nTokens For Sale:\n900,000,000\nInvestors:\nBinance Labs\n+3\nLock-up:\n4,16% at TGE, then 95,84% linear over...']"
+Fordefi,"['Undisclosed\n13 Feb 2024\nRaised\n$ 10.00M\nInvestors:\nElectric Capital\nLead\nAlchemy\nPaxos', 'Seed\n8 Nov 2022\nRaised\n$ 18.00M\nInvestors:\nLightspeed Venture Partners\nLead\nPantera Capital\nDigital Currency Group (DCG)\nElectric Capital\n+8']"
+Watches,['Pre-Seed\n13 Feb 2024\nRaised\n$ 1.90M\nInvestors:\nLemniscap\nLead\nBig Brain Holdings\nBuilder Capital\nMarin Ventures\n+7']
+Analog,['Undisclosed\n12 Feb 2024\nValuation\n$ 120M\nRaised\n$ 16.00M\nInvestors:\nTribe Capital\nLead\nBalaji Srinivasan\nWintermute\nQuantstamp\n+6']
+Hydro-Protocol-Fi,['Undisclosed\n12 Feb 2024\nRaised\nN/A\nInvestors:\nQuantstamp\nSkyVision Capital\nExNetwork Capital\nCSP DAO\n+9']
+Intentx,"['Strategic\n12 Feb 2024\nRaised\n$ 1.80M\nInvestors:\nSelini Capital\nLead\nMirana Ventures\nKronos\nMantle\n+2', 'Seed\n21 Nov 2023\nRaised\n$ 2.50M\nInvestors:\nMagnus Capital\nLead\nContango Digital Assets\nCoral DeFi\nCastle Capital\n+3']"
+Ginger-Joy,['Pre-Seed\n9 Feb 2024\nRaised\n$ 1.26M\nInvestors:\nN/A']
+Zeus-Network,"['Undisclosed\n3 Apr 2024\nValuation\n$ 100M\nRaised\n$ 8.00M\nInvestors:\nMechanism Capital\nLead\nThe Spartan Group\nAnimoca Brands\nOKX Ventures\n+2', 'Angel\n9 Feb 2024\nRaised\nN/A\nInvestors:\nAnatoly Yakovenko\nAndrew Kang\nMuneeb Ali']"
+The-Mystery-Society,['Seed\n9 Feb 2024\nRaised\n$ 3.00M\nInvestors:\nShima Capital\nLead\nSfermion\nPolygon Studios\nGSR\n+5']
+Unisat,"['Strategic\n11 Mar 2024\nRaised\nN/A\nInvestors:\nCGV FoF', 'Pre-Series A\n9 Feb 2024\nRaised\nN/A\nInvestors:\nOKX Ventures\nABCDE\nVitalbridge Capital', 'Strategic\n30 Nov 2023\nRaised\nN/A\nInvestors:\nLK Venture']"
+Pixels,"['Strategic\n9 Feb 2024\nRaised\n$ 4.80M\nInvestors:\nFenbushi Capital\nFramework Ventures\nMechanism Capital\nYield Guild Games (YGG)\n+12', 'Seed\n3 Feb 2022\nRaised\n$ 2.40M\nInvestors:\nAnimoca Brands\nLead\nPKO Investments\nLead\nOpenSea Ventures\nLeonis Capital\n+1']"
+Truflation,"['Undisclosed\n9 Feb 2024\nRaised\n$ 6.00M\nInvestors:\nLaser Digital\nLead\nRed Beard Ventures\nLead\nC² Ventures\nFundamental Labs\n+4', 'Undisclosed\n7 Sep 2023\nRaised\nN/A\nInvestors:\nBase Ecosystem Fund']"
+Dtravel,"['Undisclosed\n8 Feb 2024\nRaised\nN/A\nInvestors:\nBorderless Capital', 'Seed\n16 Jun 2021\nRaised\n$ 5.00M\nInvestors:\nShima Capital\nLD Capital\nGBV Capital\nKenetic Capital\n+5']"
+Coala-Pay,['Pre-Seed\n8 Feb 2024\nRaised\n$ 815.00K\nInvestors:\nLattice\nThe Batchery\nFactor Capital\nCV Labs']
+Yogapetz,['Undisclosed\n8 Feb 2024\nRaised\n$ 5.00M\nInvestors:\nAnimoca Brands\nSoul Capital\nNewman Capital']
+Fuzzland,['Seed\n8 Feb 2024\nRaised\n$ 3.00M\nInvestors:\nHashKey Capital\n1kx\nSNZ Holding\nPanga Ventures']
+Dextools,['Seed\n8 Feb 2024\nRaised\nN/A\nInvestors:\nOKX Ventures']
+Flood,['Seed\n8 Feb 2024\nRaised\n$ 5.20M\nInvestors:\nBain Capital Crypto\nLead\nArchetype Ventures\nLead\nRobot Ventures']
+Superform,['Seed\n8 Feb 2024\nRaised\n$ 6.50M\nInvestors:\nPolychain Capital\nLead\nCircle\nMaven 11 Capital\nArthur Hayes\n+5']
+Omega,['Undisclosed\n7 Feb 2024\nRaised\n$ 6.00M\nInvestors:\nBlockchain.com\nBorderless Capital\nMH Ventures\nBlockchain Founders Fund\n+17']
+Ponchiqs,['Undisclosed\n6 Feb 2024\nRaised\nN/A\nInvestors:\nStartgate.com\nLead']
+Ln-Markets,"['Seed\n6 Feb 2024\nRaised\nN/A\nInvestors:\nLemniscap', 'Pre-Seed\n8 Sep 2020\nRaised\nN/A\nInvestors:\nBitfinex\nArcane Crypto\nFulgur Ventures']"
+Folks-Finance,"['Strategic\n6 Feb 2024\nRaised\nN/A\nInvestors:\nAlgorand Foundation', 'Seed\n20 Jan 2022\nRaised\n$ 3.00M\nInvestors:\nBorderless Capital\nLead\nCoinbase Ventures\nOKX Ventures\nParaFi Capital\n+12']"
+Lightlink,"['Extended Seed\n4 Apr 2024\nRaised\n$ 1.70M\nInvestors:\nMH Ventures\nNxGen\nEric Cryptoman\nAnbessa\n+4', 'Seed\n6 Feb 2024\nRaised\n$ 4.50M\nInvestors:\nT&B Media Global\nJellyC\nBlock 3 Ventures\nAweh Ventures\n+2']"
+Glif,['Seed\n6 Feb 2024\nRaised\n$ 4.50M\nInvestors:\nMultichain Capital\nLead\nFenbushi Capital\nBig Brain Holdings\nProtocol Labs\n+4']
+Clearpool,"['Grant\n6 Feb 2024\nRaised\n$ 150.00K\nInvestors:\nMantle', 'Seed\n27 Sep 2021\nRaised\n$ 3.00M\nInvestors:\nHashKey Capital\nSequoia Capital\nGBV Capital\nArrington XRP Capital\n+8']"
+Gigastar,"['Undisclosed\n6 Feb 2024\nRaised\n$ 3.00M\nInvestors:\nDV Chain\nBelvedere Trading\nNameless Ventures\nMetropolitan Capital\n+1', 'Seed\n16 Mar 2023\nRaised\n$ 4.80M\nInvestors:\nDV Chain\nBelvedere Trading\nNameless Ventures\nTomsic Holdings']"
+Debox,"['Strategic\n8 Mar 2024\nRaised\nN/A\nInvestors:\nOKX Ventures', 'Undisclosed\n6 Feb 2024\nRaised\nN/A\nInvestors:\nBitrise Capital', 'Strategic\n19 Jan 2024\nRaised\nN/A\nInvestors:\nDWF Labs', 'Strategic\n9 Jan 2023\nRaised\n$ 2.00M\nInvestors:\nABCDE\nLead', 'Seed\n28 Jul 2022\nRaised\nN/A\nInvestors:\nTokenPocket\nLead']"
+Startale-Labs,"['Series A\n6 Feb 2024\nValuation\n$ 63.5M\nRaised\n$ 3.50M\nInvestors:\nSamsungNext\nSignum Capital\nSony Network Communications', 'Undisclosed\n28 Jun 2023\nRaised\n$ 3.50M\nInvestors:\nSony Network Communications']"
+Lends,['Undisclosed\n5 Feb 2024\nRaised\nN/A\nInvestors:\nMaven Capital\nDewhales\nApe Terminal\nCogitent Ventures\n+16']
+Carry-1St,[]
+Kodiakfi,[]
+Oobit,['Series A\n5 Feb 2024\nRaised\n$ 25.00M\nInvestors:\nTether\nCMCC Global\n468 Capital\nAnatoly Yakovenko']

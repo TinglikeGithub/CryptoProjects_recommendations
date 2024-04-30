@@ -22,7 +22,7 @@ def service_mapping(service):
     return mapping.get(service, "")
 
 column_weights = {
-    'Total Raised': 0.5,
+    'Total Raised': 0.1,
     'First Funding Year': 0,
     'First Funding Month': 0,
     'First Funding Day': 0,
@@ -56,7 +56,7 @@ def index():
                 max_value = data['Total Raised'].max()
                 amount_raised = (int(amount_raised) - min_value)/(max_value - min_value)
 
-                column_weights['Total Raised'] = 1
+                column_weights['Total Raised'] = 0.01
 
             column_weights['Funding Round_Angel'] = 1 if funding_round=="angel" else 0.5
             column_weights['Funding Round_Pre-Seed'] = 1 if funding_round=="pre_seed" else 0.5

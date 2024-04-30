@@ -2,9 +2,8 @@ import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import MinMaxScaler
 
-
-df1 = pd.read_csv("static/Data/Cleaned Data/Cleaned_Funding_Details.csv")
-df2 = pd.read_csv("static/Data/Cleaned Data/Cleaned_Overview_Details.csv")
+df1 = pd.read_csv("Data/Cleaned_Funding_Details.csv")
+df2 = pd.read_csv("Data/Cleaned_Overview_Details.csv")
 
 data = pd.merge(df1,df2, left_on = ["Name"], right_on = ["Crypto Name"])
 
@@ -17,15 +16,15 @@ data['First Funding Day'] = data['First Funding Date'].dt.day
 
 data['Valuation Amount'] = data['Valuation Amount'].str.extract(r'\$ (\d+\.?\d*)M').astype(float) * 1e6
 
-data.to_csv("static/Data/data.csv")
+data.to_csv("Data/data.csv")
 # data = pd.read_csv("static/Data/data.csv")
 
 processed_data = data.drop(columns=["Crypto Name", "Name", "Raised Amount", "First Funding Date", "Valuation Amount", "Links"])
 
-processed_data.fillna("not available", inplace=True)
+processed_data.fillna(0, inplace=True)
 encoder = OneHotEncoder()
 processed_data = pd.get_dummies(processed_data, columns= ["Service", "Funding Round"], dtype = int)
-processed_data["Inverstors_and_desc"] = processed_data["Investors"]+" "+processed_data["Description"]
+processed_data["Inverstors_and_desc"] = processed_data["Investors"].astype(str)+" "+processed_data["Description"].astype(str)
 processed_data = processed_data.drop(columns=["Investors","Description"])
 # Initialize the MinMaxScaler
 scaler = MinMaxScaler()
@@ -43,4 +42,4 @@ numeric_columns = ['Total Raised', 'First Funding Year', 'First Funding Month',
 # Apply min-max normalization to each numeric column
 processed_data[numeric_columns] = scaler.fit_transform(processed_data[numeric_columns])
 
-processed_data.to_csv("static/Data/processed_data.csv")
+processed_data.to_csv("Data/processed_data.csv")

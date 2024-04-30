@@ -19,7 +19,7 @@ def create_embeddings(description):
     else:
         return np.zeros(embedding_dim)
 
-def feature_matrix(processed_data, column_weights, embeddings_user, top_n):
+def feature_matrix(processed_data, column_weights, embeddings_user, top_n, amount_raised):
     # Create feature matrix with embeddings and numerical features
     feature_matrix = []
     index = []
@@ -68,7 +68,8 @@ def feature_matrix(processed_data, column_weights, embeddings_user, top_n):
     # entry['First Funding Year'] * column_weights['First Funding Year'],
     # entry['First Funding Month'] * column_weights['First Funding Month'],
     # entry['First Funding Day'] * column_weights['First Funding Day'],
-    0,0,0,0,
+    amount_raised * column_weights['Total Raised'],
+    0,0,0,
     0,
     0,
     0,
@@ -120,7 +121,7 @@ def funding_mapping(funding_round):
     return mapping.get(funding_round, "")
 
 
-def match(processed_data, top_n, column_weights, description):
+def match(processed_data, top_n, column_weights, description, amount_raised):
     top_n = int(top_n)
     all_top_indices = []
     all_top_similarities = []
@@ -136,7 +137,8 @@ def match(processed_data, top_n, column_weights, description):
     all_top_indices = feature_matrix(processed_data,
                                      column_weights,
                                      embeddings_user=embeddings,
-                                     top_n=top_n)
+                                     top_n=top_n,
+                                     amount_raised=amount_raised)
     
     # reconstructed_feature_matrix, feature_vector = feature_matrix(processed_data,
     #                                                               column_weights,

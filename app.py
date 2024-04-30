@@ -49,6 +49,14 @@ def index():
             no_of_recommendation = request.form['no_of_recommendation']
             service = request.form['service']
             funding_round = request.form['funding_round']
+            amount_raised = request.form['amount_raised']
+
+            if amount_raised:
+                min_value = data['Total Raised'].min()
+                max_value = data['Total Raised'].max()
+                amount_raised = (int(amount_raised) - min_value)/(max_value - min_value)
+
+                column_weights['Total Raised'] = 1
 
             column_weights['Funding Round_Angel'] = 1 if funding_round=="angel" else 0.5
             column_weights['Funding Round_Pre-Seed'] = 1 if funding_round=="pre_seed" else 0.5
@@ -95,6 +103,7 @@ def index():
                                 top_n=no_of_recommendation,
                                 column_weights=column_weights,
                                 description=description,
+                                amount_raised=amount_raised
                                 # service=service,
                                 # funding_round=funding_round
                                 )
@@ -102,7 +111,9 @@ def index():
             # result = data.iloc[top_indices].values.tolist()
 
             result = data.iloc[top_indices].values.tolist()
-        except:
+        except Exception as e:
+            with open("log.txt", "a") as f:
+                f.write(str(e) + "\n" + amount_raised)
             pass
     return render_template('index.html', result=result)
 

@@ -31,10 +31,10 @@ The file src/recommendation_system.py takes different filters funding round, ser
 This project was developed by our team as part of the Entrepreneurship course at University of San Francisco!
 
 Team Members:
-1. Rithvik Donnipadu (rithvikdonnipadu@gmail.com)
-2. Shrey Jain 
-3. Ting Pan
-4. Indar Kumar
+1. Indar Kumar
+2. Rithvik Donnipadu (rithvikdonnipadu@gmail.com)
+3. Shrey Jain 
+4. Ting Pan
 5. Sissi Shen
 
 

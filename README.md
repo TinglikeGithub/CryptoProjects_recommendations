@@ -4,7 +4,7 @@ This repository contains Python code for matching textual descriptions with exis
 
 ## How to run
 
-We have hosted our application on GCP at the following link: http://35.235.93.49/
+We have hosted our application on GCP at the following link: http://34.83.107.253/
 
 The file src/recommendation_system.py takes different filters funding round, service, description as input from the user. Based on this filtered data, we create word embeddings for each data point using Gensim word2vec. Similarly, word embeddings are created for the remaining data points in our database, and the k nearest neighbours are returned as output, which are displayed to the user in our application.
 
